@@ -1,10 +1,18 @@
-*__Yahen Klimko__
-** __email:__ *evklimko@tut.by*
+*__Yahen Klimko__  
+**__email:__ *evklimko@tut.by*  
 
-__I'm from *Minsk, Belarus*__
-*I'm 33 years old.* 
-*I work as a sales maneger. I have work experience over *__6 yaers__**
-*Now i have work in company, that salls home appliances.*   
+__I'm from *Minsk, Belarus*__  
+*I'm 33 years old.*   
+*I work as a sales maneger. I have work experience over *__*6 yaers*__*  
+*Now i have work in company, that sells home appliances.* 
+
+English lavel B2
+
+[My prodject on Git](https://github.com/Kliev/FE14-onl-ht-1-Klimko-Evgeny.git)
+
+
+
+
 
 
 
